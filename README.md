@@ -11,7 +11,7 @@ App FullStack que consume la API de Dragon Ball donde muestro una tabla de perso
 
 Para poder revisar este pequeño proyecto debes tener instalado Docker y ejecutar:
 
-docker compose ip --build
+docker compose up --build
 
 ## Estructura:
 
